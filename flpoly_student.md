@@ -1,27 +1,27 @@
-## First Name Last Name
+## Alejandra Martinez
 
-### Term Year 
+### FA 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precal Trig
 
-- Course 2
+- Intro to Data Science
 
-- Course 3
+- Intro to programming using python
 
-- Course 4
+- Computer infrastructure and services
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- crossfit
 
-- Thing 2
+- hiking
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Data Science as shown in this website <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/02
