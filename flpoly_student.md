@@ -4,7 +4,7 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- PreCalculus
+- Pre-Calculus
 
 - Intro to Data Science
 
@@ -23,9 +23,9 @@ I am _passionate about_:
 - Data Science as shown in this website <https://www.floridapoly.edu>
 
 | Prefix  | Number  | Name                                       | Credits    |
-|:--------|:--------|:-------------------------------------------|:-----------|
+|---------|---------|--------------------------------------------|------------|
 | **COP** | **2073**| _Introduction to Data Science_             | 3          |
-| **MAC** | **1147**| _PreCalculus_                              | 3          |
+| **MAC** | **1147**| _Pre-Calculus_                             | 3          |
 | **COP** | **2034**| _Introduction to Programming using Python_ | 3          |
 | **CTS** | **2375**| _Cloud Infrastructure and Services_        | 3          |
 
